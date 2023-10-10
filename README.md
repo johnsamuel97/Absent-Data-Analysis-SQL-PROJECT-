@@ -154,7 +154,7 @@ LIMIT 10;
 ![Alt text](optimize_query_bmi.png)
  
 
-**The query with added fields to use it to represent in  powerbi -**
+**The query with added fields to use it to represent overall data -**
 
 select
 
