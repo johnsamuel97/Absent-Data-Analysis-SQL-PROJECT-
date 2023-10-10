@@ -9,7 +9,7 @@ Optimize the query retreive the data of  seasons and the person BMI Categories?
 
 
 
--- Creating join table 
+**-- Creating join table **
 
 select * from absenteeism_work a
 
@@ -106,6 +106,8 @@ Limit 10;
 ![Alt text](optimize_query_seasons.png)
  
 **--optimize this query(with BMI Category and seasons column using Case statements)**
+
+
 
 select
 
