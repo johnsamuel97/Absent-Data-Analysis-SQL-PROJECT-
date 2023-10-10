@@ -19,8 +19,7 @@ on a.reason_absence = c.id;
 
 We can see the main table named absenteeism_work has been joined and the below is the image of displayed columns of two sub tables in absenteeism_work.
 
- 
-![Alt text](<join.png>)
+![Alt text](Join.png)
 
 --Finding the healthiest
 
